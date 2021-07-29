@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="background_color">#EFEBE9</color>
+    <color name="score_label_color">#A1887F</color>
+    <color name="score_number_color">#6D4C41</color>
+    <color name="popup_background_color">#EFEFEF</color>
+    <color name="popup_text_color">#000000</color>
+    <color name="white">#ffffff</color>
+</resources>

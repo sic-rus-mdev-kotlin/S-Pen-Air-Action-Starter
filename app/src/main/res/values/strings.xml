@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">S Pen Racing</string>
+    <string name="move_car">Move Car</string>
+    <string name="move_car_left">Move Car To Left</string>
+    <string name="move_car_right">Move Car To Right</string>
+    <string name="pause_or_resume">Pause or Resume</string>
+    <string name="restart">Restart</string>
+
+    <string name="best_ranking">Congratulation!\nYou are the Best!</string>
+    <string name="try_again">Try again!</string>
+    <string name="ready">READY</string>
+    <string name="pause">PAUSE</string>
+
+</resources>
